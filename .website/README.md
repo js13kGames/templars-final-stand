@@ -1,4 +1,8 @@
 ---
+genres:
+  - action
+  - survival
+  - roguelike
 post: https://leokuo0724.medium.com/templars-final-stand-post-mortem-js13k-2024-73c2cc895c67
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
